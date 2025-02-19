@@ -3,3 +3,4 @@ azure-mgmt==0.30.0rc6
 msrestazure
 azure==2.0.0rc6
 apache-libcloud<3.0.0
+azure-graphrbac
